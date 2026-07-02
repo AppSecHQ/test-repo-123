@@ -1,0 +1,5 @@
+# Python dependencies with known vulnerabilities (SCA triggers)
+
+# Critical vulnerabilities
+jinja2==2.10
+
